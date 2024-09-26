@@ -43,5 +43,5 @@ python ecg_analysis.py
 
 ## Screenshots
 
-![App Screenshot](https://snipboard.io/nwdVPZ.jpg)
+![App Screenshot](https://snipboard.io/5I14R3.jpg)
 
